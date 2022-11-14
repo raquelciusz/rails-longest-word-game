@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+body {
+  padding: 30px;
+}
+
+.letras {
+  display: inline-block;
+  background-color: darkblue;
+  padding: 15px;
+  color: white;
+  font-size: 2em;
+  font-weight: 800;
+  box-shadow: 1px 1px 3px black;
+}
